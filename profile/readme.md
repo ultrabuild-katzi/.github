@@ -3,7 +3,7 @@
 **Lives on forever.**
 
 ## Projects
-- [SMP](https://github.com/ultrabuild-katzi/SMP): 
+- [SMP](https://github.com/ultrabuild-katzi/SMP):
   Owner: Jannik_ca
   co-Owner: Jannik_ca
   Designer: Notstevy
