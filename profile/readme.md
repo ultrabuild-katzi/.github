@@ -4,16 +4,37 @@
 
 ## Projects
 - [SMP](https://github.com/ultrabuild-katzi/SMP):
-  Owner: Jannik_ca
-  co-Owner: Jannik_ca
-  Designer: Notstevy
-- [CreateRailwaySignal](https://github.com/ultrabuild-katzi/CreateRailwaySignal): Jannik_ca
-- [captive-mod](https://github.com/ultrabuild-katzi/captive-mod): NotStevy
-- [AutoStop](https://github.com/ultrabuild-katzi/AutoStop): Jannik_ca
-- [randomInt-Jannikca](https://github.com/ultrabuild-katzi/randomInt-Jannikca): Jannik_ca
-- [MoreCreateAddons](https://github.com/ultrabuild-katzi/MoreCreateAddons): Jannik_ca, NotStevy
-- [fabric-flashlight-1.21](https://github.com/ultrabuild-katzi/fabric-flashlight-1.21): Jannik_ca, NotStevy, RaphiCraft20
-- [move](https://github.com/ultrabuild-katzi/move): Jannik_ca
+  - **Owner:** Jannik_ca
+  - **Assistant:** NotStevy
+  - **Designer:** NotKurai, Jannik_ca
+- [CreateRailwaySignal](https://github.com/ultrabuild-katzi/CreateRailwaySignal):
+  - **Owner:** Jannik_ca
+  - **Assistant:** NotStevy
+  - **Designer:** Jannik_ca, RaphiCraft20, Strassenbahn12
+- [captive-mod](https://github.com/ultrabuild-katzi/captive-mod):
+  - **Owner:** NotStevy
+  - **Assistant:** /
+  - **Designer:** Jannik_ca, NotKurai, NotStevy
+- [AutoStop](https://github.com/ultrabuild-katzi/AutoStop):
+  - **Owner:** Jannik_ca
+  - **Assistant:** NotStevy
+  - **Designer:** /
+- [randomInt-Jannikca](https://github.com/ultrabuild-katzi/randomInt-Jannikca):
+  - **Owner:** Jannik_ca
+  - **Assistant:** NotStevy
+  - **Designer:** /
+- [MoreCreateAddons](https://github.com/ultrabuild-katzi/MoreCreateAddons):
+  - **Owner:** Jannik_ca
+  - **Assistant:** NotStevy
+  - **Designer:** /
+- [fabric-flashlight-1.21](https://github.com/ultrabuild-katzi/fabric-flashlight-1.21):
+  - **Owner:** Jannik_ca
+  - **Assistant:** NotStevy
+  - **Designer:** Jannik_ca
+- [move](https://github.com/ultrabuild-katzi/move):
+  - **Owner:** Jannik_ca
+  - **Assistant:** /
+  - **Designer:** /
 
 
 # For further help please contact use via this link.
