@@ -3,7 +3,10 @@
 **Lives on forever.**
 
 ## Projects
-- [SMP](https://github.com/ultrabuild-katzi/SMP): Jannik_ca
+- [SMP](https://github.com/ultrabuild-katzi/SMP): 
+  Owner: Jannik_ca
+  co-Owner: Jannik_ca
+  Designer: Notstevy
 - [CreateRailwaySignal](https://github.com/ultrabuild-katzi/CreateRailwaySignal): Jannik_ca
 - [captive-mod](https://github.com/ultrabuild-katzi/captive-mod): NotStevy
 - [AutoStop](https://github.com/ultrabuild-katzi/AutoStop): Jannik_ca
