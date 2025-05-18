@@ -38,7 +38,7 @@
 - [Grenzzeichen](https://github.com/ultrabuild-katzi/grenzzeichen):
   - **Owner:** Raphicraft20
   - **Assistant:** Jannik_ca, NotStevy
-  - **Designer:** Strassenbahn12, RaphiCraft, Jannik_ca
+  - **Designer:** Strassenbahn12, RaphiCraft20, Jannik_ca
 
 
 # For further help please contact use via this link.
