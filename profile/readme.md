@@ -7,38 +7,61 @@
   - **Owner:** Jannik_ca
   - **Assistant:** NotStevy
   - **Designer:** NotKurai, Jannik_ca
+
 - [CreateRailwaySignal](https://github.com/ultrabuild-katzi/CreateRailwaySignal):
   - **Owner:** Jannik_ca
   - **Assistant:** NotStevy
   - **Designer:** Jannik_ca, RaphiCraft20, Strassenbahn12
+ 
 - [captive-mod](https://github.com/ultrabuild-katzi/captive-mod):
   - **Owner:** NotStevy
   - **Assistant:** /
   - **Designer:** Jannik_ca, NotKurai, NotStevy
+  
 - [AutoStop](https://github.com/ultrabuild-katzi/AutoStop):
   - **Owner:** Jannik_ca
   - **Assistant:** NotStevy
   - **Designer:** /
+ 
 - [randomInt-Jannikca](https://github.com/ultrabuild-katzi/randomInt-Jannikca):
   - **Owner:** Jannik_ca
   - **Assistant:** NotStevy
   - **Designer:** /
+  
 - [MoreCreateAddons](https://github.com/ultrabuild-katzi/MoreCreateAddons):
   - **Owner:** Jannik_ca
   - **Assistant:** NotStevy
   - **Designer:** /
+  
 - [fabric-flashlight-1.21](https://github.com/ultrabuild-katzi/fabric-flashlight-1.21):
   - **Owner:** Jannik_ca
   - **Assistant:** NotStevy
   - **Designer:** Jannik_ca
+  
 - [move](https://github.com/ultrabuild-katzi/move):
   - **Owner:** Jannik_ca
   - **Assistant:** /
   - **Designer:** /
+  
 - [Grenzzeichen](https://github.com/ultrabuild-katzi/grenzzeichen):
   - **Owner:** Raphicraft20
   - **Assistant:** Jannik_ca, NotStevy
   - **Designer:** Strassenbahn12, RaphiCraft20, Jannik_ca
+
+- [Recreate Quests](https://github.com/ultrabuild-katzi/recreate-quests):
+  - **Owner:** Jannik_ca
+  - **Assistant:** NotStevy
+  - **Designer:** /
+
+- [Ardifaction](https://github.com/ultrabuild-katzi/ardification):
+  - **Owner:** NotStevy
+  - **Assistant:** Jannik_ca, Aaron_LW
+  - **Designer:** Jannik_ca
+ 
+- [Excitos](https://github.com/ultrabuild-katzi/excitos):
+  - **Owner:** NotStevy
+  - **Assistant:** Jannik_ca
+  - **Designer:** NotKurai7
 
 
 # For further help please contact use via this link.
